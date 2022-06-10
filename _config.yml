@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: Levi Corallo 
 title: M.S. Computational Linguistics
-email: leviecorallo@gmail.com,,
+email: leviecorallo@gmail.com
+website: ok.com
 
 
 # Dark Mode (true/false/never)
@@ -49,9 +50,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 I am a 25-year-old graduate student currently completing my M.S. in Computational Linguistics at Montclair State University. My current scope of work focuses on NLP, machine learning, cryptocurrency corpora research, machine translation, and others. I graduate with my M.S. in December. My name is pronounced <I>(Lee-vai)</I>
-
 I am most skilled in: <mark>machine learning,</mark> and <mark> NLP,<m/> with projects specializing in <mark>machine translation,</mark> <mark> cryptocurrency corpus research,</mark> <mark> sentiment analysis, </mark> and <mark> research & experimentation. </mark> 
-
 I code in <mark> python </mark> 
 I have studied in coursework:  
 <I> Automatic Speech Recognition Models
@@ -74,8 +73,6 @@ HTML
 PHP
 Linguistics (Syntax, Semantics, Phonetics) 
 </I>  
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
