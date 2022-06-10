@@ -55,6 +55,13 @@ I am most skilled in: <mark>machine learning,</mark> and <mark> NLP,<m/> with pr
 I code in <mark> python </mark> 
 I have studied in coursework:  
 <I> Automatic Speech Recognition Models
+Text-classification tasks
+Text-simplification tasks
+Sentiment analysis methods and insights 
+Tokenization
+Text Preprocessing 
+PyTorch, TensorFlow 
+Machine Translation neural network architectures 
 Supervised machine learning models
 Unsupervised machine learning models 
 Deep learning 
@@ -64,6 +71,7 @@ Text-to-image generation
 Data mining, data warehousing (SQL)
 HTML
 PHP
+Linguistics (Syntax, Semantics, Phonetics) 
 </I>  
 
 
@@ -72,7 +80,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: German-English machine translation using a GRU RNN 
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
